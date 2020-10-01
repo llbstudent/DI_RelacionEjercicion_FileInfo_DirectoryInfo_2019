@@ -1,0 +1,2 @@
+# DI_RelacionEjercicion_FileInfo_DirectoryInfo_2019
+Tanda de ejercicios
