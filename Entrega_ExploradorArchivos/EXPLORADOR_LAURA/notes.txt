@@ -1,0 +1,50 @@
+Explorador Archivos (App Windows foms.NET)
+
+Utils:
+Estructura:
+-ToolStripContainer
+-Contenedor Splitcontainer (Nos dará el formato que queremos)
+
+Para mostrar un árbol de directorio:
+-TreeView (Parte izquierda - Lo acoplamos)
+	CONSTRUIR ROOTNODE:
+	rootNode = new TreeNode(info.Name);
+	rootNode.Tag = info;
+	GetDirectories(GetDirectories(), rootNode);
+	treeView1.Nodes.Add(rootNode);
+
+-ListView (Parte derecha)
+	PROPIEDADES.
+	HeaderClickable (True - Ordenar lista elementos)
+	Items - Cambiarán dependiendo de la parte que estamos seleccionanado
+	LabelEdit - True
+	LargeIMGList (Tenemos que hacer otra lista con iconos grandes)
+	SmallIMGList (Pero con iconos pequeños)
+
+	EVENTO NODEMOUSECLICK:
+	me creo un objeto nodo donde hago el click
+	ListView.Items.Clear(); -Quiero que me muestre solo su formación, sino se añaden a la lista
+	View-Details: List
+_____________________________________________-
+	TreeNode newSelected = e.Node;
+	ListView.Items.Clear();
+	DirectoryInfo nodeDirInfo = (DirectoryInfo)newSelected.Tag;
+	ListViewItem.ListviewSubItem[] subItems;
+	ListViewItem item = null;
+	
+	foreach(DirectoryInfo dir in nodeDirInfo.GetDirectories()){
+		item = new
+
+	}
+
+-ImageList
+
+
+
+
+
+-Arriba barra de Menú (ToolStrip Container).
+
+-Primero ponemos el contenedor que nos permite estrusturar la app
+	Ventana dividida en 2 partes
+

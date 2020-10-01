@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.deps.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.dll
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\bin\Debug\netcoreapp3.1\3REL.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\obj\Debug\netcoreapp3.1\3REL.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\obj\Debug\netcoreapp3.1\3REL.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\obj\Debug\netcoreapp3.1\3REL.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\obj\Debug\netcoreapp3.1\3REL.dll
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\3-REL_FileInfo _DirectoryInfo\3REL\obj\Debug\netcoreapp3.1\3REL.pdb

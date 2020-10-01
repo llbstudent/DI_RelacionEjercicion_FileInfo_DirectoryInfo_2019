@@ -1,0 +1,11 @@
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.deps.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.runtimeconfig.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.runtimeconfig.dev.json
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.dll
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\bin\Debug\netcoreapp3.1\1Ficheros.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\obj\Debug\netcoreapp3.1\1Ficheros.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\obj\Debug\netcoreapp3.1\1Ficheros.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\obj\Debug\netcoreapp3.1\1Ficheros.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\obj\Debug\netcoreapp3.1\1Ficheros.dll
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\1-REL\1Ficheros\obj\Debug\netcoreapp3.1\1Ficheros.pdb

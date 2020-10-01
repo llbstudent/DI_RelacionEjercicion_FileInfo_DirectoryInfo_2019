@@ -1,0 +1,10 @@
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\bin\Debug\ClasesFile.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\bin\Debug\ClasesFile.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\bin\Debug\ClasesFile.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.FormPpl.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\EJERCICIOS\FileInfo_DirectoryInfo\2-REL_FileInfo\ClasesFile\obj\Debug\ClasesFile.FormNorton1.resources
